@@ -7,11 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-<<<<<<< HEAD
           Change2  
-=======
-          Change1
->>>>>>> testbranch1
         </p>
         <a
           className="App-link" 
